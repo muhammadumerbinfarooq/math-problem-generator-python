@@ -1,5 +1,3 @@
-
-```
 # Math Problem Generator in Python
 A simple math problem generator using Python.
 
